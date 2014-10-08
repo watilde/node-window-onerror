@@ -1,0 +1,11 @@
+{
+  "name": "window-onerror",
+  "version": "0.0.1",
+  "description": "Implements window.onerror specification on node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daijiro Wachi",
+  "license": "MIT"
+}
